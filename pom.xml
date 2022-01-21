@@ -23,7 +23,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <spring-boot.version>2.6.2</spring-boot.version>
+        <spring-boot.version>2.6.3</spring-boot.version>
         <pooled-jms.version>2.0.2</pooled-jms.version>
         <mybatis-plus.version>3.5.0</mybatis-plus.version>
         <druid.version>1.2.8</druid.version>
@@ -31,9 +31,9 @@
         <shardingsphere.version>5.0.0</shardingsphere.version>
         <dubbo.version>3.0.5</dubbo.version>
         <logstash-logback-encoder.version>7.0.1</logstash-logback-encoder.version>
-        <elastic.version>7.16.2</elastic.version>
+        <elastic.version>7.16.3</elastic.version>
         <jedis.version>4.0.1</jedis.version>
-        <java-jwt.version>3.18.2</java-jwt.version>
+        <java-jwt.version>3.18.3</java-jwt.version>
         <fastjson.version>1.2.79</fastjson.version>
         <poi.version>5.1.0</poi.version>
         <guava.version>31.0.1-jre</guava.version>
