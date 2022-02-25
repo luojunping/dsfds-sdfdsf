@@ -23,9 +23,9 @@
 
     <properties>
         <java.version>17</java.version>
-        <spring-boot.version>2.5.9</spring-boot.version>
+        <spring-boot.version>2.5.10</spring-boot.version>
         <spring-cloud.version>2020.0.5</spring-cloud.version>
-        <pooled-jms.version>2.0.2</pooled-jms.version>
+        <pooled-jms.version>2.0.4</pooled-jms.version>
         <mybatis-plus.version>3.5.1</mybatis-plus.version>
         <druid.version>1.2.8</druid.version>
         <redisson.version>3.16.8</redisson.version>
@@ -33,7 +33,7 @@
         <dubbo.version>3.0.5</dubbo.version>
         <logstash-logback-encoder.version>7.0.1</logstash-logback-encoder.version>
         <elastic.version>7.16.3</elastic.version>
-        <jedis.version>4.0.1</jedis.version>
+        <jedis.version>4.1.0</jedis.version>
         <java-jwt.version>3.18.3</java-jwt.version>
         <fastjson.version>1.2.79</fastjson.version>
         <poi.version>5.1.0</poi.version>
@@ -49,7 +49,7 @@
         <apollo.version>1.9.2</apollo.version>
         <junit-jupiter-api.version>5.8.2</junit-jupiter-api.version>
         <kettle.version>9.3.0.0-312</kettle.version>
-        <ttl.version>2.12.3</ttl.version>
+        <ttl.version>2.12.4</ttl.version>
         <flyway.version>8.4.1</flyway.version>
     </properties>
 
